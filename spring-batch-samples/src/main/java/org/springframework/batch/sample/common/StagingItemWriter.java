@@ -117,3 +117,4 @@ public class StagingItemWriter<T> extends JdbcDaoSupport implements StepExecutio
 		this.stepExecution = stepExecution;
 	}
 }
+ 
